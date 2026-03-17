@@ -1,4 +1,4 @@
-# leetcode-solutions
+# ds-algo-practice
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

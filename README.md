@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0139-word-break) |
+| [0338-counting-bits](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Trie
 |  |
 | ------- |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->

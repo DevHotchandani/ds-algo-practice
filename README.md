@@ -8,6 +8,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0139-word-break](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0139-word-break) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0139-word-break) |
+## Prefix Sum
+|  |
+| ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 <!---LeetCode Topics End-->

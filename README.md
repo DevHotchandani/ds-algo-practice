@@ -73,4 +73,9 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Math
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->

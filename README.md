@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0139-word-break) |
+| [0224-basic-calculator](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Tree
 |  |
@@ -118,4 +120,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->

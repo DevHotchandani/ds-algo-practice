@@ -8,6 +8,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0139-word-break](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0139-word-break) |
 | [0239-sliding-window-maximum](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0335-self-crossing](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0335-self-crossing) |
 | [0349-intersection-of-two-arrays](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0335-self-crossing](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0335-self-crossing) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Tree
 |  |
@@ -131,4 +133,8 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0224-basic-calculator) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->

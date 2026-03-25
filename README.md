@@ -11,6 +11,7 @@
 | [0335-self-crossing](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0335-self-crossing) |
 | [0349-intersection-of-two-arrays](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2906-construct-product-matrix](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0139-word-break](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0139-word-break) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Memoization
 |  |
 | ------- |
@@ -88,6 +91,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |

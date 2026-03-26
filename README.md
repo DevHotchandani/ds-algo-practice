@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [1622-fancy-sequence](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1622-fancy-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0279-perfect-squares](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0335-self-crossing](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0335-self-crossing) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1622-fancy-sequence](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1622-fancy-sequence) |
 ## Tree
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1622-fancy-sequence](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1622-fancy-sequence) |
 ## Queue
 |  |
 | ------- |

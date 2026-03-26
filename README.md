@@ -105,6 +105,7 @@
 | [0335-self-crossing](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0335-self-crossing) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1622-fancy-sequence](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1622-fancy-sequence) |
+| [2169-count-operations-to-obtain-zero](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Tree
 |  |
 | ------- |
@@ -159,4 +160,8 @@
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Simulation
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->

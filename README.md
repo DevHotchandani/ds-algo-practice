@@ -14,6 +14,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2906-construct-product-matrix](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3607-power-grid-maintenance](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3607-power-grid-maintenance) |
@@ -37,6 +38,7 @@
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2906-construct-product-matrix](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
@@ -108,6 +110,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1622-fancy-sequence](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [2169-count-operations-to-obtain-zero](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Tree
 |  |
 | ------- |
@@ -169,6 +172,7 @@
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Union-Find
 |  |
 | ------- |

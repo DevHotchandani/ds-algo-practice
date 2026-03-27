@@ -19,11 +19,13 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3607-power-grid-maintenance](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3607-power-grid-maintenance) |
+| [3643-flip-square-submatrix-vertically](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Two Pointers
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [3643-flip-square-submatrix-vertically](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
 | ------- |

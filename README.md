@@ -16,6 +16,7 @@
 | [2906-construct-product-matrix](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3607-power-grid-maintenance](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3607-power-grid-maintenance) |
 ## Two Pointers
@@ -40,6 +41,7 @@
 | [2906-construct-product-matrix](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
@@ -77,6 +79,7 @@
 | [2906-construct-product-matrix](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Binary Search
 |  |

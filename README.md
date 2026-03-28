@@ -13,6 +13,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2573-find-the-string-with-lcp](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2573-find-the-string-with-lcp](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2573-find-the-string-with-lcp](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -59,6 +62,7 @@
 | [0139-word-break](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2573-find-the-string-with-lcp](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +70,7 @@
 | [0279-perfect-squares](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0338-counting-bits) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2573-find-the-string-with-lcp](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Trie
 |  |
@@ -182,6 +187,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3607-power-grid-maintenance](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3607-power-grid-maintenance) |
 ## Graph Theory
 |  |

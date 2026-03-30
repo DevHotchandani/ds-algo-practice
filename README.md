@@ -68,6 +68,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [1622-fancy-sequence](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [2169-count-operations-to-obtain-zero](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Tree
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0279-perfect-squares](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3607-power-grid-maintenance](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3607-power-grid-maintenance) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Design
 |  |
 | ------- |
@@ -196,6 +199,7 @@
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3607-power-grid-maintenance](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3607-power-grid-maintenance) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
 |  |
 | ------- |
@@ -204,4 +208,5 @@
 |  |
 | ------- |
 | [3607-power-grid-maintenance](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3607-power-grid-maintenance) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->

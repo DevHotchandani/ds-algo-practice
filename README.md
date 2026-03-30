@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0139-word-break](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0139-word-break) |
 | [0239-sliding-window-maximum](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
@@ -187,6 +188,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Simulation
 |  |

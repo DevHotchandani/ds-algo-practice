@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0868-binary-gap) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0051-n-queens) |
+| [0401-binary-watch](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Simulation
 |  |

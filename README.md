@@ -25,6 +25,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3607-power-grid-maintenance](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3607-power-grid-maintenance) |
 | [3643-flip-square-submatrix-vertically](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2573-find-the-string-with-lcp](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Trie
 |  |
 | ------- |

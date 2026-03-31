@@ -15,6 +15,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0840-magic-squares-in-grid](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2906-construct-product-matrix) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0221-maximal-square) |
+| [0840-magic-squares-in-grid](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2906-construct-product-matrix) |
@@ -64,6 +66,7 @@
 | [0139-word-break](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0840-magic-squares-in-grid](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3607-power-grid-maintenance](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3607-power-grid-maintenance) |
 ## String
@@ -138,6 +141,7 @@
 | [0279-perfect-squares](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0335-self-crossing](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0335-self-crossing) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0840-magic-squares-in-grid](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1622-fancy-sequence](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [2169-count-operations-to-obtain-zero](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |

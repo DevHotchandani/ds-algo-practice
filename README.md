@@ -75,6 +75,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -88,6 +89,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0279-perfect-squares) |

@@ -37,6 +37,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -152,10 +153,12 @@
 ## Tree
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3607-power-grid-maintenance](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3607-power-grid-maintenance) |
 ## Breadth-First Search
@@ -241,4 +244,16 @@
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->

@@ -28,6 +28,7 @@
 | [3607-power-grid-maintenance](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3607-power-grid-maintenance) |
 | [3643-flip-square-submatrix-vertically](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Trie
 |  |
 | ------- |
@@ -123,6 +126,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Indexed Tree
 |  |
 | ------- |

@@ -29,6 +29,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3719-longest-balanced-subarray-i](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0840-magic-squares-in-grid](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DevHotchandani/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3607-power-grid-maintenance](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3607-power-grid-maintenance) |
+| [3719-longest-balanced-subarray-i](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/DevHotchandani/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [1622-fancy-sequence](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1622-fancy-sequence) |
+| [3719-longest-balanced-subarray-i](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -257,6 +261,7 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/DevHotchandani/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/DevHotchandani/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |

@@ -1,35 +1,35 @@
 class Solution {
-    public int minSwaps(int[][] g) {
-        int n = g.length;
+    public int minSwaps(int[][] grid) {
+        int n = grid.length;
+        int[] z = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            int cnt = 0;
+            for (int j = n - 1; j >= 0 && grid[i][j] == 0; j--) {
+                cnt++;
+            }
+            z[i] = cnt;
+        }
+
         int ans = 0;
 
         for (int i = 0; i < n; i++) {
-            boolean ok = false;
+            int need = n - i - 1;
+            int j = i;
 
-            for (int j = i; j < n; j++) {
-                if (isValidRow(g[j], i)) {
-                    ok = true;
+            while (j < n && z[j] < need) j++;
 
-                    for (int k = j; k > i; k--) {
-                        int[] temp = g[k];
-                        g[k] = g[k - 1];
-                        g[k - 1] = temp;
-                        ans++;
-                    }
-                    break;
-                }
+            if (j == n) return -1;
+
+            while (j > i) {
+                int temp = z[j];
+                z[j] = z[j - 1];
+                z[j - 1] = temp;
+                j--;
+                ans++;
             }
-
-            if (!ok) return -1;
         }
 
         return ans;
-    }
-
-    boolean isValidRow(int[] row, int idx) {
-        for (int i = idx + 1; i < row.length; i++) {
-            if (row[i] == 1) return false;
-        }
-        return true;
     }
 }
